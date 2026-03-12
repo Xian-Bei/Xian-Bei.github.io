@@ -1,0 +1,26 @@
+title: Fengyi Zhang
+email: fengyi.zhang@example.com
+url: "https://xian-bei.github.io"
+description: >-
+  PhD Candidate at The University of Queensland working on 3D Computer Vision,
+  Vision Foundation Models, and 3D World Modeling.
+markdown: kramdown
+theme: null
+permalink: pretty
+
+plugins: []
+
+author:
+  name: Fengyi Zhang
+  affiliation: The University of Queensland
+  role: PhD Candidate
+
+navigation:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Projects
+    url: /projects/
+  - title: CV
+    url: /cv/
