@@ -65,7 +65,7 @@
   }
 
   /* Scroll spy */
-  var sectionIds = ["research", "publications", "education", "awards", "service", "skills"];
+  var sectionIds = ["skills", "publications", "education", "awards", "service"];
   var sections = sectionIds
     .map(function (id) {
       return document.getElementById(id);

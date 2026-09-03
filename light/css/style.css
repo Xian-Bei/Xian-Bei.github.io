@@ -427,9 +427,9 @@ main {
   display: block;
   width: 100%;
   max-width: 228px;
-  aspect-ratio: 1;
+  aspect-ratio: 3 / 4;
   object-fit: cover;
-  object-position: center 22%;
+  object-position: center top;
   border-radius: var(--radius-lg);
   border: 3px solid var(--cream);
   box-shadow:
@@ -872,7 +872,7 @@ main {
 
 @media (min-width: 600px) {
   .skills-grid {
-    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
