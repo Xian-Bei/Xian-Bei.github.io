@@ -656,6 +656,10 @@ main {
   color: var(--muted);
 }
 
+.pub-authors strong {
+  color: var(--ink);
+}
+
 .pub-venue {
   margin: 0;
   font-size: 0.82rem;

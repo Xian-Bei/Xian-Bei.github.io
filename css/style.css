@@ -695,6 +695,10 @@ main {
   color: var(--text-muted);
 }
 
+.pub-authors strong {
+  color: var(--text);
+}
+
 .pub-venue {
   margin: 0;
   font-size: 0.85rem;
